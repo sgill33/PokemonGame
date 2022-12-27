@@ -1,0 +1,41 @@
+HOW TO PLAY:
+
+START SCREEN:
+    Press the Spacebar to proceed to Wild Pokemon Selection screen
+
+WILD POKEMON SELECTION:
+    Press a key between 1 and 4 to select the looks of the wild pokemon
+        Key 1. Wild Pokemon will look like one of the starter pokemon
+        Key 2. Wild Pokemon will look like any possible Pokemon entity (Includes Pikachu and Meowth)
+        Key 3. Wild Pokemon will all look Pikachu
+        Key 4. Wild Pokemon will look like any possible entity (Jesse,Player,etc)
+
+    Pressing a key will take you to the Difficulty Selection screen
+
+DIFFICULTY SELECTION:
+    Press a key between 1 and 3 to select a difficulty
+        Key 1. EASY - Enemy Entities will move slow
+                      Pikachu will move fast
+        Key 2. MEDIUM - Enemy Entities will move faster
+                        Pikachu will move fast
+        Key 3. HARD - Enemy Entities will move very fast and also move diagonally
+                      Pikachu will move slower
+
+    Pressing a key will take you to the Game screen
+
+GAME:
+    MOVEMENT:
+    Use the arrow keys to move your character
+
+    ABILITIES:
+    Click on an empty area to spawn a Pikachu. Enemies will be distracted by Pikachu while he runs to the gate
+
+    OBJECTIVE:
+    Collect the wild Pokemon and bring them back to an open Pokeball
+    You can only hold 1 Pokemon at a time
+    Once you have placed all the Pokemon in Pokeballs, head to the gate located at the top of the screen
+    Once you reach the gate, you win!
+
+    CHALLENGE:
+    You must avoid Jesse and James(or Meowth) while you collect the Pokemon
+    If they catch you, you lose :(
